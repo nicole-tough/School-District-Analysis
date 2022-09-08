@@ -6,7 +6,7 @@ The purpose of this project is to assist Maria, the Chief Data Scientist for a c
 We created several data frames to aggregate the data with all of the student test scores provided to us. However, after the analysis was complete, we were made aware that test scores from 9th graders at Thomas High School showed evidence of academic dishonesty. After this came to light, we removed those test scores and re-created our data results.
 
 ## Results 
-The following results will address how our data was changed once we removed the 9th grade test scores from Thomas High School.
+The following results will address how our data was changed once we removed the 9th grade test scores from Thomas High School. The changes can be observed in our data frame below. 
 - District Summary: The District Summary changed slightly with the removal of these test scores. The number of schools, students, and budget remained the same as those were unaffected. The average reading and math scores along with the math, reading, and overall passing percentages decreseased slightly. 
 
 - School Summary: While most of the school summary remained the same, the average test scores passing percentages for Thomas High School were replaced with new data. The average reading and math scores in addition to the math, reading, and overall passing percentages decreased slighlty for Thomas High School. All other data remained the same.
@@ -20,6 +20,12 @@ The following results will address how our data was changed once we removed the 
 - Scores by School Size: The average scores by school size was not affected by the removal of the test scores. The average scores in this data set were rounded to the nearest 0.1%, and the difference in average scores is too slight to be seen. 
 
 - Scores by School Type: The average scores by school type was not affected by the removal of the test scores. The average scores in this data set were rounded to the nearest 0.1%, and the difference in average scores is too slight to be seen. 
+
+![OriginalSchoolSummary](https://github.com/nicole-tough/School_District_Analysis/blob/main/School_Summary_1.PNG)
+*School Summary With All Test Scores*
+
+![UpdatedSchoolSummary](https://github.com/nicole-tough/School_District_Analysis/blob/main/School_Summary_2.PNG)
+*Updated School Summary with removal of Thomas High School 9th Grade Test Scores*
 
 ## Summary
 The following changes to the school district analysis after reading and math scores have been replaced were observed:
