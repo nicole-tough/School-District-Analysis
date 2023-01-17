@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 
 ## Project Overview 
 The purpose of this project is to assist Maria, the Chief Data Scientist for a city school district, prepare data on student funding and students' standardized test scores for high schools in her school district. The overall task is to the aggregate data and showcase trends in school performance. In this project, we handled highly sensitive data such as student names and test scores. 
